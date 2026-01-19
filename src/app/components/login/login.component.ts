@@ -101,6 +101,9 @@ import { AuthService } from '../../services/auth.service';
       --color: #000000;
       --placeholder-color: #888;
       --border-color: #ccc;
+      --border-style: solid;
+      --border-width: 1px;
+      --border-radius: 8px;
     }
 
     ion-button {
